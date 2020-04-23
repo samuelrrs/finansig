@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+
+
+
+
+
+
+.container {
+    height: 100%;
+    display: flex;
+    padding: 90px;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Fira Sans', sans-serif;
+    
+}   
+
+
+.tudo {
+    padding:60px
+}
+
+.tudo h2 {
+    padding: 15px
+}
+
+.tudo .header {
+    display: flex;
+    justify-content: space-between;
+   
+}
+.tudo .header h5 {
+    align-self: start;
+    padding-top: px;
+}
