@@ -1,4 +1,4 @@
-# finansig
+# Finansystem
 
 Projeto em estágio inicial.
 
